@@ -1,0 +1,6 @@
+fixes
+for 1+1:
+DiscountRequirementValidationResult  // new list for piping products
+DiscountValidationResult  // list declaretion for piping products from the rec 
+discountService  // the actual piping
+orderToalClalculationService // 1+1 method and prod deduct in total fields

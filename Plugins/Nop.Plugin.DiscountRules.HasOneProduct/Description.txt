@@ -1,0 +1,9 @@
+﻿Group: Discount requirements
+FriendlyName: Customer One Plus One
+SystemName: DiscountRequirement.OnePlusOne
+Version: 1.19
+SupportedVersions: 3.80
+Author: nopCommerce team
+DisplayOrder: 1
+FileName: Nop.Plugin.DiscountRules.OnePlusOne.dll
+Description: This plugin allows you to configure 1+1 discount from products range
